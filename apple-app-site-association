@@ -1,13 +1,13 @@
 {
     "applinks": {
-      "apps": [],
-      "details": [
-        {
-          "appID": "2WUMZJWXX8.com.SAAED.NEO",
-          "paths": [
-            "*"
-          ]
-        }
-      ]
+        "apps": [],
+        "details": [
+            {
+                "appID": "2WUMZJWXX8.com.SAAED.NEO",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
     }
-  }
+}
