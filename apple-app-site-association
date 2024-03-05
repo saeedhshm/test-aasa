@@ -5,7 +5,7 @@
         {
           "appID": "2WUMZJWXX8.com.SAAED.NEO",
           "paths": [
-            "RoadAssist/*"
+            "*"
           ]
         }
       ]
